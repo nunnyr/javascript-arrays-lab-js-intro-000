@@ -8,6 +8,7 @@ function destructivelyAppendKitten(name) {
   kittens.push(name)
   return kittens
 }
+<<<<<<< HEAD
 
 
 function destructivelyPrependKitten(name) {
@@ -50,3 +51,5 @@ function removeFirstKitten() {
   otherArray.shift()
   return otherArray
 }
+=======
+>>>>>>> 2e2bbb355d666b0639caf8f5fa1e3ba27d960684
